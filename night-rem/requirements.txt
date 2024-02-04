@@ -1,0 +1,9 @@
+pyht==0.0.16
+python-dotenv==0.21.1
+wave
+numpy==1.24.2
+soundfile==0.12.1
+scipy==1.11.3
+Flask==3.0.0
+openai
+Gunicorn

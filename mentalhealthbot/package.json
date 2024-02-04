@@ -1,0 +1,22 @@
+{
+    "name": "news-bot",
+    "version": "1.0.0",
+    "description": "A simple News Bot using Dialogflow and NewsAPI",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "@wolfram-alpha/wolfram-alpha-api": "^23.1004.144821-RELEASE",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "dialogflow-fulfillment": "^0.6.1",
+        "dotenv": "^16.4.0",
+        "express": "^4.17.1",
+        "newsapi": "^2.4.0",
+        "wolfram-alpha-api": "^0.2.1"
+    },
+    "engines": {
+        "node": ">=10.0.0"
+    }
+}
