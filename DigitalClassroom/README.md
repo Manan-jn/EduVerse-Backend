@@ -1,4 +1,5 @@
 # Digital Classroom
+Generate simplified slides from text with images and Marp conversion.
 
 ## Setup 
 
@@ -44,3 +45,6 @@ Install the dependencies and start the server
   pip install -r requirements.txt
   uvicorn --app-dir=./app main:app --host 0.0.0.0 --port 10000
 ```
+
+## Architecture Diagram
+![digital classroom](https://github.com/Manan-jn/EduVerse/assets/72336990/dca4b4c3-b66e-4368-b46f-627c6a982529)
