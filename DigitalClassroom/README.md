@@ -1,7 +1,7 @@
 # Digital Classroom
 Generate simplified slides from text with images and Marp conversion.
 
-## Setup 
+## 📦 Setup 
 
 Clone the repository
 
