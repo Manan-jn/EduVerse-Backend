@@ -33,3 +33,7 @@ UNIVERSE_DOMAIN
   pip install -r requirements.txt
   streamlit run src/main.py
 ```
+
+## Architecture Diagram
+![Azure (2019) framework (1)](https://github.com/Manan-jn/EduVerse/assets/72336990/c30f0773-4c2e-461f-9626-e3e11a50d0e9)
+
